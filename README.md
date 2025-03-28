@@ -89,3 +89,13 @@ Then open the app in your browser and upload any legal PDF.
   - MONEY: $100,000
 
 ---
+## 📸 Screenshots
+
+### 🔹 App Launched & PDF Uploaded
+![App Screenshot 1](assets/LegalDocSummarizer_1.png)
+
+### 🔹 Chunked Summaries Displayed
+![App Screenshot 2](assets/LegalDocSummarizer_2.png)
+
+### 🔹 Summary Completed & Ready to Download
+![App Screenshot 3](assets/LegalDocSummarizer_3.png)
