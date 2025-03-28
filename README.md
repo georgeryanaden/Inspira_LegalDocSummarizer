@@ -99,3 +99,5 @@ Then open the app in your browser and upload any legal PDF.
 
 ### 🔹 Summary Completed & Ready to Download
 ![App Screenshot 3](assets/LegalDocSummarizer_3.png)
+
+###PLEASE NOTE : ACCURACY HAS STILL NOT BEEN TESTED , HENCE PERFORMANCE MAYBE LOW. THIS IS A DEMO PROJECT
